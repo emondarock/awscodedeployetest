@@ -1,2 +1,2 @@
-cd /home/ubuntu/my-app1/
-sudo npm run build
+cd /home/ubuntu/app/
+sudo npm install
