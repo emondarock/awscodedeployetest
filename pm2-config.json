@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "name": "servicenet_dev",
+      "script": "npm",
+      "args": "run start",
+      "watch": "../",
+      "log_date_format": "YYYY-MM-DD HH:mm Z"
+    }
+  ]
+}
